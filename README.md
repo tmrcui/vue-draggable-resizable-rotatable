@@ -6,7 +6,7 @@
 ## Install and basic usage
 
 ```bash
-$ npm install --save vue-draggable-resizable
+$ npm install --save vue-draggable-resizable-rotatable
 ```
 
 下面是新增的属性和事件,原有属性请在[vue-draggable-resizable](https://github.com/mauricius/vue-draggable-resizable)中查看。
