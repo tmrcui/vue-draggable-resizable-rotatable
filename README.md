@@ -3,7 +3,14 @@
 > Vue2 Component for draggable, resizable and rotatable elements.<br>
 >在 [vue-draggable-resizable](https://github.com/mauricius/vue-draggable-resizable)的基础上支持了旋转功能和其他属性。
 
+## Install and basic usage
+
+```bash
+$ npm install --save vue-draggable-resizable
+```
+
 下面是新增的属性和事件,原有属性请在[vue-draggable-resizable](https://github.com/mauricius/vue-draggable-resizable)中查看。
+
 ### Props
 
 #### rotatable
