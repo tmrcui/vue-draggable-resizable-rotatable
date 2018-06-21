@@ -68,5 +68,22 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
-  ]
+  ],
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmrcui/vue-draggable-resizable-rotatable.git"
+  },
+  "keywords": [
+    "vue",
+    "component",
+    "draggable",
+    "resizable",
+    "rotatable"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmrcui/vue-draggable-resizable-rotatable/issues"
+  },
+  "homepage": "https://github.com/tmrcui/vue-draggable-resizable-rotatable#readme"
 }
