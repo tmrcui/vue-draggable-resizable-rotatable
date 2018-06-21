@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Vue2 Component for draggable, resizable and rotatable elements",
   "author": "tmrc <honggook@gmail.com>",
-  "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
