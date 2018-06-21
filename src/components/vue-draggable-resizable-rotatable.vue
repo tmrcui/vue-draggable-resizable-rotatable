@@ -538,7 +538,7 @@ export default {
         this.$emit('dragstop', this.left, this.top)
       } else if (this.rotating) {
         this.rotating = false
-        this.$emit('rotatestop', this.r)
+        this.$emit('rotatestop', this.rotate)
       }
 
       this.elmX = this.left
