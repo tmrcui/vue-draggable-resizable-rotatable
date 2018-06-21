@@ -20,7 +20,7 @@ Default: `true`
 
 定义组件是否支持旋转
 ```html
-<vue-draggable-resizable :rotatable="true">
+<vue-draggable-resizable-rotatable :rotatable="true">
 ```
 
 #### r
@@ -30,7 +30,7 @@ Default: `0`
 
 定义初始旋转角度
 ```html
-<vue-draggable-resizable :r="0">
+<vue-draggable-resizable-rotatable :r="0">
 ```
 
 #### deselectCancel
@@ -39,7 +39,7 @@ Required: `false`<br>
 
 定义点击组件外的其他区域时阻止取消选中的选择器
 ```html
-<vue-draggable-resizable :deselectCancel=".selector">
+<vue-draggable-resizable-rotatable :deselect-cancel=".selector">
 ```
 
 ### Events
@@ -51,7 +51,7 @@ Parameters:
 
 旋转时触发
 ```html
-<vue-draggable-resizable :rotating="onRotating">
+<vue-draggable-resizable-rotatable :rotating="onRotating">
 ```
 
 #### rotatestop
@@ -61,5 +61,5 @@ Parameters:
 
 旋转结束时触发
 ```html
-<vue-draggable-resizable :rotatestop="onRotateStop">
+<vue-draggable-resizable-rotatable :rotatestop="onRotateStop">
 ```

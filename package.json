@@ -1,6 +1,6 @@
 {
   "name": "vue-draggable-resizable-rotatable",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Vue2 Component for draggable, resizable and rotatable elements",
   "author": "tmrc <honggook@gmail.com>",
   "scripts": {
