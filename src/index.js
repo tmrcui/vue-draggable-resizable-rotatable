@@ -1,1 +1,1 @@
-export { default } from './components/vue-draggable-resizable-rotate'
+export { default } from './components/vue-draggable-resizable-rotatable'
